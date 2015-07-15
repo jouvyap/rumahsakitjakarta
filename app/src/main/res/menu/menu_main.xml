@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_jadwal" android:title="@string/action_jadwal"
+        android:icon="@mipmap/ic_action_go_to_today"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/action_tentang" android:title="@string/action_tentang"
+        android:icon="@mipmap/ic_action_about"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_help" android:title="@string/action_help"
+        android:icon="@mipmap/ic_action_help"
+        app:showAsAction="never"/>
+
+
+
+</menu>

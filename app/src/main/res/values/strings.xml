@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Rumah Sakit Jakarta</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_lapor">Lapor</string>
+    <string name="action_tentang">Tentang</string>
+    <string name="action_jadwal">Jadwal Dokter</string>
+    <string name="action_help">Bantuan</string>
+
+    <string name="sumber">Data dari Pemerintah Provinsi DKI Jakarta (2014): Rumah Sakit di Jakarta,
+        http://data.go.id/dataset/rumah-sakit-di-jakarta dan BPJS Kesehatan (2015),
+        http://bpjs-kesehatan.go.id/bpjs/index.php/pages/detail/2015/14</string>
+
+    <string-array name="kota_array">
+        <item>Kota (Jakarta)</item>
+        <item>Jakarta Timur</item>
+        <item>Jakarta Barat</item>
+        <item>Jakarta Utara</item>
+        <item>Jakarta Selatan</item>
+        <item>Jakarta Pusat</item>
+    </string-array>
+
+    <string-array name="rs_array">
+        <item>Pilih RS</item>
+        <item>RS Harapan Bunda</item>
+        <item>RS Jakarta</item>
+    </string-array>
+
+    <string-array name="lapor_array">
+        <item>Layanan BPJS</item>
+        <item>Alamat</item>
+        <item>Kelurahan</item>
+        <item>Kecamatan</item>
+        <item>Kode Pos</item>
+        <item>Telepon</item>
+        <item>Fax</item>
+        <item>Email</item>
+        <item>Website</item>
+    </string-array>
+
+    <string name="title_activity_hasil">Hasil Pencarian</string>
+    <string name="title_activity_detil">Detail Rumah Sakit</string>
+    <string name="title_activity_map">Lokasi Rumah Sakit</string>
+    <string name="title_activity_jadwal">Jadwal Dokter</string>
+    <string name="title_activity_help">Bantuan</string>
+
+    <string name="help_title_1">Bagaimana memulai pencarian Rumah Sakit?</string>
+    <string name="help_content_1">Anda dapat menekan tombol Lokasi Terdekat untuk mencari Rumah Sakit terdekat lalu menampilkannya dalam bentuk peta ataupun menggunakan kolom teks yang tersedia lalu menekan tombol Cari.</string>
+    <string name="help_title_2">Apakah perlu mengisi semua kolom teks?</string>
+    <string name="help_content_2">Tidak, Anda dapat mengisi informasi yang ingin dicari saja. Misal Anda ingin mencari Rumah Sakit khusus mata, maka cukup isi kolom teks Jenis dengan kata mata lalu tekan tombol Cari.</string>
+    <string name="help_title_3">Jangkauan Rumah Sakit yang dapat ditemukan?</string>
+    <string name="help_content_3">Fitur mencari Rumah Sakit Terdekat dapat menemukan Rumah Sakit dengan radius 1000 meter di sekitar lokasi Anda berada. Sementara itu untuk pencarian normal jangkauannya adalah wilayah Ibu Kota DKI Jakarta.</string>
+    <string name="help_title_4">Bagaimana cara melihat detail dari Rumah Sakit?</string>
+    <string name="help_content_4">Cukup tekan nama Rumah Sakit yang ingin dilihat informasi detail-nya pada halaman Hasil Pencarian.</string>
+    <string name="help_title_5">Apa arti teks berwarna oranye pada halaman Detail Rumah Sakit?</string>
+    <string name="help_content_5">Teks berwarna oranye menandakan Anda dapat berinteraksi dengan informasi tersebut. Sebagai contoh jika Anda menekan teks Alamat maka aplikasi akan menunjukkan lokasi Rumah Sakit pada peta.</string>
+    <string name="help_title_6">Bagaimana cara membagikan informasi Rumah Sakit?</string>
+    <string name="help_content_6">Anda dapat menekan tombol Share di bagian kanan atas pada halaman Detail Rumah Sakit untuk membagikan informasi Rumah Sakit.</string>
+    <string name="help_title_7">Apakah aplikasi membutuhkan koneksi internet?</string>
+    <string name="help_content_7">Ya, fitur pencarian Rumah Sakit dan mengetahui Jadwal Dokter membutuhkan koneksi internet.</string>
+
+    <string name="tips_activity_main">*bisa isi salah satu saja</string>
+
+
+</resources>
